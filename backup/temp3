@@ -1,0 +1,18 @@
+REPOSITORY          TAG         IMAGE ID       CREATED        SIZE
+single_multistage   latest      82254e3a1ad6   4 weeks ago    921MB
+<none>              <none>      d27bfc7560ee   4 weeks ago    1.22GB
+single_stage        latest      3b018f0576ed   4 weeks ago    1.22GB
+tomcat              8           b557ebd3ae6a   4 weeks ago    680MB
+test_pt             latest      4cbd8ca665bd   5 weeks ago    104MB
+ubunt               env2        c6a8b9056821   5 weeks ago    115MB
+ubuntu2             env         c6a8b9056821   5 weeks ago    115MB
+ubuntu              latest      ba6acccedd29   5 weeks ago    72.8MB
+ubuntumix1          CMDENTRY    a6bd4c849f3f   5 weeks ago    230MB
+ubuntumix           CMDENTRY    a6bd4c849f3f   5 weeks ago    230MB
+ubuntu4             zip         ebda58c301f7   5 weeks ago    230MB
+contbuild           build.add   2f9fa8960841   5 weeks ago    217MB
+myubuntu            latest      ddcf529312d5   5 weeks ago    205MB
+tomcat              latest      4ce9babdd885   6 weeks ago    680MB
+jenkins/jenkins     lts-jdk11   e4ebf98bd6ca   7 weeks ago    441MB
+ubuntu              <none>      597ce1600cf4   7 weeks ago    72.8MB
+node                10          28dca6642db8   7 months ago   910MB
